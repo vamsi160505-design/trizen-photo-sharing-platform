@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node scripts/init-db.js && next build",
+  "framework": "nextjs",
+  "outputDirectory": ".next"
+}
